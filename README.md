@@ -9,7 +9,7 @@
 + Registro de Empleados
 + Registro de Clientes
 + Control de Sueldos de Empleados
-+ Egresos
++ Registro de Egresos
 + Reportes Generales
 
 # 👨‍💻 Sobre el Código
