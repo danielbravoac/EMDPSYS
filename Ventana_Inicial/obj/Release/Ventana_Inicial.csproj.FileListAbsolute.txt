@@ -1,0 +1,333 @@
+D:\Instituto\Sistema EMDP\Sistema_Ventas_EMDP\Ventana_Inicial\bin\Release\Ventana_Inicial.exe.config
+D:\Instituto\Sistema EMDP\Sistema_Ventas_EMDP\Ventana_Inicial\bin\Release\Ventana_Inicial.exe
+D:\Instituto\Sistema EMDP\Sistema_Ventas_EMDP\Ventana_Inicial\bin\Release\Ventana_Inicial.pdb
+D:\Instituto\Sistema EMDP\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_categoria.resources
+D:\Instituto\Sistema EMDP\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_familia.resources
+D:\Instituto\Sistema EMDP\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.Inicio_Sistema.resources
+D:\Instituto\Sistema EMDP\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_nuevo_producto.resources
+D:\Instituto\Sistema EMDP\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_ocasion.resources
+D:\Instituto\Sistema EMDP\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_opciones_cliente.resources
+D:\Instituto\Sistema EMDP\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_opciones_delivery.resources
+D:\Instituto\Sistema EMDP\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_opciones_egresos.resources
+D:\Instituto\Sistema EMDP\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_opciones_empleado.resources
+D:\Instituto\Sistema EMDP\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_opciones_producto.resources
+D:\Instituto\Sistema EMDP\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_opciones_proveedor.resources
+D:\Instituto\Sistema EMDP\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_opciones_venta.resources
+D:\Instituto\Sistema EMDP\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.Properties.Resources.resources
+D:\Instituto\Sistema EMDP\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_reportes.resources
+D:\Instituto\Sistema EMDP\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.csproj.GenerateResource.Cache
+D:\Instituto\Sistema EMDP\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.exe
+D:\Instituto\Sistema EMDP\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.pdb
+D:\Instituto\Sistema EMDP\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_caracteristicas_producto.resources
+D:\Instituto\Sistema EMDP\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_color.resources
+D:\Instituto\Sistema EMDP\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_control_producto.resources
+D:\Instituto\Sistema EMDP\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_editar_producto.resources
+D:\Instituto\Sistema EMDP\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_subcategoria.resources
+D:\Instituto\Sistema EMDP\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_nuevo_cliente.resources
+D:\Instituto\Sistema EMDP\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_editar_cliente.resources
+C:\Users\Daniel\Downloads\Sistema EMDP0909\Sistema_Ventas_EMDP\Ventana_Inicial\bin\Release\Ventana_Inicial.exe.config
+C:\Users\Daniel\Downloads\Sistema EMDP0909\Sistema_Ventas_EMDP\Ventana_Inicial\bin\Release\Ventana_Inicial.exe
+C:\Users\Daniel\Downloads\Sistema EMDP0909\Sistema_Ventas_EMDP\Ventana_Inicial\bin\Release\Ventana_Inicial.pdb
+C:\Users\Daniel\Downloads\Sistema EMDP0909\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Downloads\Sistema EMDP0909\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_caracteristicas_producto.resources
+C:\Users\Daniel\Downloads\Sistema EMDP0909\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_categoria.resources
+C:\Users\Daniel\Downloads\Sistema EMDP0909\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_color.resources
+C:\Users\Daniel\Downloads\Sistema EMDP0909\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_control_empleado.resources
+C:\Users\Daniel\Downloads\Sistema EMDP0909\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_control_producto.resources
+C:\Users\Daniel\Downloads\Sistema EMDP0909\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_control_proveedor.resources
+C:\Users\Daniel\Downloads\Sistema EMDP0909\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_editar_cliente.resources
+C:\Users\Daniel\Downloads\Sistema EMDP0909\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_editar_empleado.resources
+C:\Users\Daniel\Downloads\Sistema EMDP0909\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_editar_producto.resources
+C:\Users\Daniel\Downloads\Sistema EMDP0909\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_editar_proveedor.resources
+C:\Users\Daniel\Downloads\Sistema EMDP0909\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_familia.resources
+C:\Users\Daniel\Downloads\Sistema EMDP0909\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_nuevo_empleado.resources
+C:\Users\Daniel\Downloads\Sistema EMDP0909\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.Inicio_Sistema.resources
+C:\Users\Daniel\Downloads\Sistema EMDP0909\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_nuevo_cliente.resources
+C:\Users\Daniel\Downloads\Sistema EMDP0909\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_nuevo_producto.resources
+C:\Users\Daniel\Downloads\Sistema EMDP0909\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_nuevo_proveedor.resources
+C:\Users\Daniel\Downloads\Sistema EMDP0909\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_ocasion.resources
+C:\Users\Daniel\Downloads\Sistema EMDP0909\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_opciones_cliente.resources
+C:\Users\Daniel\Downloads\Sistema EMDP0909\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_opciones_delivery.resources
+C:\Users\Daniel\Downloads\Sistema EMDP0909\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_opciones_egresos.resources
+C:\Users\Daniel\Downloads\Sistema EMDP0909\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_opciones_empleado.resources
+C:\Users\Daniel\Downloads\Sistema EMDP0909\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_opciones_producto.resources
+C:\Users\Daniel\Downloads\Sistema EMDP0909\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_opciones_proveedor.resources
+C:\Users\Daniel\Downloads\Sistema EMDP0909\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_opciones_venta.resources
+C:\Users\Daniel\Downloads\Sistema EMDP0909\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.Properties.Resources.resources
+C:\Users\Daniel\Downloads\Sistema EMDP0909\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_reportes.resources
+C:\Users\Daniel\Downloads\Sistema EMDP0909\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_subcategoria.resources
+C:\Users\Daniel\Downloads\Sistema EMDP0909\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.csproj.GenerateResource.Cache
+C:\Users\Daniel\Downloads\Sistema EMDP0909\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.exe
+C:\Users\Daniel\Downloads\Sistema EMDP0909\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.pdb
+C:\Users\Daniel\Downloads\Sistema EMDP0909\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_nuevo_egreso.resources
+C:\Users\Daniel\Downloads\Sistema EMDP0909\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_editar_egreso.resources
+C:\Users\Daniel\Downloads\Sistema EMDP0909\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_inicio_sesion.resources
+C:\Users\Daniel\Downloads\Sistema EMDP0909\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_control_bono.resources
+C:\Users\Daniel\Downloads\Sistema EMDP0909\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_nuevo_bono.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1109\Sistema_Ventas_EMDP\Ventana_Inicial\bin\Release\Ventana_Inicial.exe.config
+C:\Users\Daniel\Downloads\Sistema EMDP1109\Sistema_Ventas_EMDP\Ventana_Inicial\bin\Release\Ventana_Inicial.exe
+C:\Users\Daniel\Downloads\Sistema EMDP1109\Sistema_Ventas_EMDP\Ventana_Inicial\bin\Release\Ventana_Inicial.pdb
+C:\Users\Daniel\Downloads\Sistema EMDP1109\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Downloads\Sistema EMDP1109\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_caracteristicas_producto.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1109\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_categoria.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1109\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_color.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1109\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_control_bono.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1109\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_control_descuentos.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1109\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_control_empleado.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1109\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_control_producto.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1109\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_control_proveedor.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1109\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_editar_bono.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1109\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_editar_cliente.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1109\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_editar_egreso.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1109\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_editar_empleado.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1109\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_editar_producto.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1109\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_editar_proveedor.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1109\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_inicio_sesion.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1109\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_nueva_venta.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1109\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_nuevo_bono.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1109\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_nuevo_descuento.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1109\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_nuevo_egreso.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1109\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_familia.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1109\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_nuevo_empleado.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1109\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.Inicio_Sistema.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1109\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_nuevo_cliente.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1109\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_nuevo_producto.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1109\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_nuevo_proveedor.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1109\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_ocasion.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1109\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_opciones_cliente.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1109\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_opciones_delivery.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1109\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_opciones_egresos.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1109\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_opciones_empleado.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1109\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_opciones_producto.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1109\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_opciones_proveedor.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1109\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_opciones_venta.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1109\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.Properties.Resources.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1109\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_reportes.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1109\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_subcategoria.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1109\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.csproj.GenerateResource.Cache
+C:\Users\Daniel\Downloads\Sistema EMDP1109\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.exe
+C:\Users\Daniel\Downloads\Sistema EMDP1109\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.pdb
+C:\Users\Daniel\Downloads\Sistema EMDP1109\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_anular_venta.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1109\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_editar_descuento.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1109\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_nuevo_envio.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1209\Sistema_Ventas_EMDP\Ventana_Inicial\bin\Release\Ventana_Inicial.exe.config
+C:\Users\Daniel\Downloads\Sistema EMDP1209\Sistema_Ventas_EMDP\Ventana_Inicial\bin\Release\Ventana_Inicial.exe
+C:\Users\Daniel\Downloads\Sistema EMDP1209\Sistema_Ventas_EMDP\Ventana_Inicial\bin\Release\Ventana_Inicial.pdb
+C:\Users\Daniel\Downloads\Sistema EMDP1209\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Downloads\Sistema EMDP1209\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_anular_venta.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1209\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_caracteristicas_producto.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1209\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_categoria.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1209\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_color.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1209\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_control_bono.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1209\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_control_descuentos.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1209\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_control_empleado.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1209\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_control_producto.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1209\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_control_proveedor.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1209\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_editar_bono.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1209\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_editar_cliente.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1209\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_editar_descuento.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1209\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_editar_egreso.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1209\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_editar_empleado.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1209\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_editar_envio.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1209\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_editar_producto.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1209\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_editar_proveedor.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1209\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_inicio_sesion.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1209\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_nueva_venta.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1209\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_nuevo_bono.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1209\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_nuevo_descuento.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1209\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_nuevo_egreso.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1209\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_familia.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1209\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_nuevo_empleado.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1209\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.Inicio_Sistema.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1209\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_nuevo_cliente.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1209\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_nuevo_envio.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1209\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_nuevo_producto.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1209\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_nuevo_proveedor.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1209\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_ocasion.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1209\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_opciones_cliente.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1209\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_opciones_delivery.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1209\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_opciones_egresos.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1209\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_opciones_empleado.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1209\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_opciones_producto.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1209\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_opciones_proveedor.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1209\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_opciones_venta.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1209\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.Properties.Resources.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1209\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_reportes.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1209\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_subcategoria.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1209\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.csproj.GenerateResource.Cache
+C:\Users\Daniel\Downloads\Sistema EMDP1209\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.exe
+C:\Users\Daniel\Downloads\Sistema EMDP1209\Sistema_Ventas_EMDP\Ventana_Inicial\obj\Release\Ventana_Inicial.pdb
+D:\Instituto\Sistema EMDP\VS\Ventana_Inicial\bin\Release\Ventana_Inicial.exe.config
+D:\Instituto\Sistema EMDP\VS\Ventana_Inicial\bin\Release\Ventana_Inicial.exe
+D:\Instituto\Sistema EMDP\VS\Ventana_Inicial\bin\Release\Ventana_Inicial.pdb
+D:\Instituto\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.csprojResolveAssemblyReference.cache
+D:\Instituto\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_anular_venta.resources
+D:\Instituto\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_caracteristicas_producto.resources
+D:\Instituto\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_categoria.resources
+D:\Instituto\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_color.resources
+D:\Instituto\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_control_bono.resources
+D:\Instituto\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_control_descuentos.resources
+D:\Instituto\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_control_empleado.resources
+D:\Instituto\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_control_producto.resources
+D:\Instituto\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_control_proveedor.resources
+D:\Instituto\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_editar_pedido.resources
+D:\Instituto\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_inicio_sesion.resources
+D:\Instituto\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_nueva_venta.resources
+D:\Instituto\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_bono.resources
+D:\Instituto\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_familia.resources
+D:\Instituto\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_empleado.resources
+D:\Instituto\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.Inicio_Sistema.resources
+D:\Instituto\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_ocasion.resources
+D:\Instituto\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_opciones_delivery.resources
+D:\Instituto\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_opciones_egresos.resources
+D:\Instituto\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_opciones_empleado.resources
+D:\Instituto\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_opciones_producto.resources
+D:\Instituto\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_opciones_proveedor.resources
+D:\Instituto\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_opciones_venta.resources
+D:\Instituto\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.Properties.Resources.resources
+D:\Instituto\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_reportes.resources
+D:\Instituto\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_subcategoria.resources
+D:\Instituto\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.csproj.GenerateResource.Cache
+D:\Instituto\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.exe
+D:\Instituto\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.pdb
+D:\Instituto\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_producto.resources
+D:\Instituto\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_proveedor.resources
+D:\Instituto\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_cliente.resources
+D:\Instituto\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_control_cliente.resources
+D:\Instituto\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_descuento.resources
+D:\Instituto\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_egreso.resources
+D:\Instituto\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_envio.resources
+D:\Instituto\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_control_pedido.resources
+D:\Instituto\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_pedido.resources
+C:\Users\Daniel\Downloads\Desktop\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\bin\Release\Ventana_Inicial.exe.config
+C:\Users\Daniel\Downloads\Desktop\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\bin\Release\Ventana_Inicial.exe
+C:\Users\Daniel\Downloads\Desktop\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\bin\Release\Ventana_Inicial.pdb
+C:\Users\Daniel\Downloads\Desktop\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Downloads\Desktop\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_anular_venta.resources
+C:\Users\Daniel\Downloads\Desktop\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_caracteristicas_producto.resources
+C:\Users\Daniel\Downloads\Desktop\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_categoria.resources
+C:\Users\Daniel\Downloads\Desktop\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_color.resources
+C:\Users\Daniel\Downloads\Desktop\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_control_bono.resources
+C:\Users\Daniel\Downloads\Desktop\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_control_descuentos.resources
+C:\Users\Daniel\Downloads\Desktop\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_control_empleado.resources
+C:\Users\Daniel\Downloads\Desktop\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_control_pedido.resources
+C:\Users\Daniel\Downloads\Desktop\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_control_producto.resources
+C:\Users\Daniel\Downloads\Desktop\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_control_proveedor.resources
+C:\Users\Daniel\Downloads\Desktop\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_editar_pedido.resources
+C:\Users\Daniel\Downloads\Desktop\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_inicio_sesion.resources
+C:\Users\Daniel\Downloads\Desktop\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_nueva_venta.resources
+C:\Users\Daniel\Downloads\Desktop\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_bono.resources
+C:\Users\Daniel\Downloads\Desktop\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_descuento.resources
+C:\Users\Daniel\Downloads\Desktop\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_egreso.resources
+C:\Users\Daniel\Downloads\Desktop\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_familia.resources
+C:\Users\Daniel\Downloads\Desktop\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_empleado.resources
+C:\Users\Daniel\Downloads\Desktop\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.Inicio_Sistema.resources
+C:\Users\Daniel\Downloads\Desktop\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_cliente.resources
+C:\Users\Daniel\Downloads\Desktop\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_envio.resources
+C:\Users\Daniel\Downloads\Desktop\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_pedido.resources
+C:\Users\Daniel\Downloads\Desktop\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_producto.resources
+C:\Users\Daniel\Downloads\Desktop\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_proveedor.resources
+C:\Users\Daniel\Downloads\Desktop\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_ocasion.resources
+C:\Users\Daniel\Downloads\Desktop\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_control_cliente.resources
+C:\Users\Daniel\Downloads\Desktop\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_opciones_delivery.resources
+C:\Users\Daniel\Downloads\Desktop\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_opciones_egresos.resources
+C:\Users\Daniel\Downloads\Desktop\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_opciones_empleado.resources
+C:\Users\Daniel\Downloads\Desktop\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_opciones_producto.resources
+C:\Users\Daniel\Downloads\Desktop\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_opciones_proveedor.resources
+C:\Users\Daniel\Downloads\Desktop\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_opciones_venta.resources
+C:\Users\Daniel\Downloads\Desktop\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.Properties.Resources.resources
+C:\Users\Daniel\Downloads\Desktop\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_reportes.resources
+C:\Users\Daniel\Downloads\Desktop\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_subcategoria.resources
+C:\Users\Daniel\Downloads\Desktop\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.csproj.GenerateResource.Cache
+C:\Users\Daniel\Downloads\Desktop\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.exe
+C:\Users\Daniel\Downloads\Desktop\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.pdb
+C:\Users\Daniel\Downloads\Desktop\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_devolucion.resources
+C:\Users\Daniel\Downloads\Desktop\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_devolucion_proveedor.resources
+C:\Users\Alumno\Desktop\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\bin\Release\Ventana_Inicial.exe.config
+C:\Users\Alumno\Desktop\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.exe
+C:\Users\Alumno\Desktop\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.pdb
+C:\Users\Alumno\Desktop\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\bin\Release\Ventana_Inicial.exe
+C:\Users\Alumno\Desktop\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\bin\Release\Ventana_Inicial.pdb
+C:\Users\Alumno\Desktop\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_anular_venta.resources
+C:\Users\Alumno\Desktop\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_caracteristicas_producto.resources
+C:\Users\Alumno\Desktop\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_categoria.resources
+C:\Users\Alumno\Desktop\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_color.resources
+C:\Users\Alumno\Desktop\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_control_bono.resources
+C:\Users\Alumno\Desktop\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_control_descuentos.resources
+C:\Users\Alumno\Desktop\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_control_empleado.resources
+C:\Users\Alumno\Desktop\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_control_pedido.resources
+C:\Users\Alumno\Desktop\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_control_producto.resources
+C:\Users\Alumno\Desktop\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_control_proveedor.resources
+C:\Users\Alumno\Desktop\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_devolucion.resources
+C:\Users\Alumno\Desktop\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_devolucion_proveedor.resources
+C:\Users\Alumno\Desktop\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_editar_pedido.resources
+C:\Users\Alumno\Desktop\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_inicio_sesion.resources
+C:\Users\Alumno\Desktop\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_nueva_venta.resources
+C:\Users\Alumno\Desktop\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_bono.resources
+C:\Users\Alumno\Desktop\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_descuento.resources
+C:\Users\Alumno\Desktop\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_egreso.resources
+C:\Users\Alumno\Desktop\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_familia.resources
+C:\Users\Alumno\Desktop\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_empleado.resources
+C:\Users\Alumno\Desktop\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.Inicio_Sistema.resources
+C:\Users\Alumno\Desktop\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_cliente.resources
+C:\Users\Alumno\Desktop\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_envio.resources
+C:\Users\Alumno\Desktop\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_pedido.resources
+C:\Users\Alumno\Desktop\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_producto.resources
+C:\Users\Alumno\Desktop\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_proveedor.resources
+C:\Users\Alumno\Desktop\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_ocasion.resources
+C:\Users\Alumno\Desktop\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_control_cliente.resources
+C:\Users\Alumno\Desktop\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_opciones_delivery.resources
+C:\Users\Alumno\Desktop\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_opciones_egresos.resources
+C:\Users\Alumno\Desktop\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_opciones_empleado.resources
+C:\Users\Alumno\Desktop\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_opciones_producto.resources
+C:\Users\Alumno\Desktop\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_opciones_proveedor.resources
+C:\Users\Alumno\Desktop\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_opciones_venta.resources
+C:\Users\Alumno\Desktop\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.Properties.Resources.resources
+C:\Users\Alumno\Desktop\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_reportes.resources
+C:\Users\Alumno\Desktop\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_subcategoria.resources
+C:\Users\Alumno\Desktop\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.csproj.GenerateResource.Cache
+C:\Users\Daniel\Downloads\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\bin\Release\Ventana_Inicial.exe.config
+C:\Users\Daniel\Downloads\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.exe
+C:\Users\Daniel\Downloads\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.pdb
+C:\Users\Daniel\Downloads\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\bin\Release\Ventana_Inicial.exe
+C:\Users\Daniel\Downloads\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\bin\Release\Ventana_Inicial.pdb
+C:\Users\Daniel\Downloads\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Downloads\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_anular_venta.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_caracteristicas_producto.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_categoria.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_color.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_control_bono.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_control_descuentos.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_control_empleado.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_control_pedido.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_control_producto.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_control_proveedor.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_devolucion.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_devolucion_proveedor.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_editar_pedido.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_inicio_sesion.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_nueva_venta.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_bono.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_descuento.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_egreso.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_familia.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_empleado.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.Inicio_Sistema.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_cliente.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_envio.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_pedido.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_producto.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_proveedor.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_ocasion.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_control_cliente.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_opciones_delivery.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_opciones_egresos.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_opciones_empleado.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_opciones_producto.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_opciones_proveedor.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_opciones_venta.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.Properties.Resources.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_reportes.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.frm_subcategoria.resources
+C:\Users\Daniel\Downloads\Sistema EMDP1909\Sistema EMDP1609\Sistema EMDP\VS\Ventana_Inicial\obj\Release\Ventana_Inicial.csproj.GenerateResource.Cache

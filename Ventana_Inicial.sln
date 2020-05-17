@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ventana_Inicial", "Ventana_Inicial\Ventana_Inicial.csproj", "{E2AC6F3D-25D3-4DE9-9B4D-35127FC05382}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2AC6F3D-25D3-4DE9-9B4D-35127FC05382}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2AC6F3D-25D3-4DE9-9B4D-35127FC05382}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2AC6F3D-25D3-4DE9-9B4D-35127FC05382}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2AC6F3D-25D3-4DE9-9B4D-35127FC05382}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
