@@ -19,7 +19,7 @@ El código se ha realizado gracias a la arquitectura cliente-servidor, modelo de
 
 # 📦 Sobre la Base de Datos
 La base de datos relacional representada, se ha realizado con las especificaciones hechas por el cliente. Basando la base de datos en la documentación brindada a continuación:
-[Presentación de Documentación](https://docs.google.com/presentation/d/1ymppE969_YiI_IgT3N8M9Fs-tO-ibIjr7wTenekeHFk/edit?usp=sharing)
+[Presentación de Documentación](https://docs.google.com/presentation/d/1pUzz3Jl-X9ja7wHPOQe_Q3z1OluOL-FHXNtHTu3ov9c/edit?usp=sharing)
 
 # ❓ Como Descargarlo y Restaurarlo
 Para la restauración de la **base de datos** utilice [SQL Server 2019](https://www.microsoft.com/es-es/sql-server/sql-server-2019) con una instancia local o con contraseña; realice consultando la [documentación](https://docs.microsoft.com/es-es/sql/relational-databases/backup-restore/restore-a-database-backup-using-ssms?view=sql-server-ver15) respectiva y para la **edición de código** use [Visual Studio 2019](https://visualstudio.microsoft.com/es/vs/), alterne la cadena de conexión conveniente en la clase `Conexion.cs`
